@@ -30,3 +30,16 @@
 *.exe
 *.out
 *.app
+
+#other
+.vscode/settings.json
+build
+*pycache*
+
+#ignore test results
+data/Xspr.csv
+data/Xsprb.csv
+data/Xregistered_python.csv
+
+#ignore python bindings lib
+python/examples/spr_py.so

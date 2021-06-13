@@ -1,0 +1,6 @@
+[submodule "resources/argparse"]
+	path = resources/argparse
+	url = https://github.com/p-ranav/argparse.git
+[submodule "resources/inih"]
+	path = resources/inih
+	url = https://github.com/jtilly/inih.git
